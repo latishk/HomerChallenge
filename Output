@@ -1,0 +1,54 @@
+/anaconda/bin/python /Users/latish/PycharmProjects/untitled4/FileReading
+
+        Event Type    count
+0      set screen  3285899
+2            open   630147
+3  drawboard tool   563980
+
+ Most read title results:
+ [{'count': 25230, '_id': '00BTG2'}, {'count': 22617, '_id': 'VOAKP7'}, {'count': 15016, '_id': 'LA347P'}, {'count': 14152, '_id': None}, {'count': 11607, '_id': 'A4PI9S'}]
+
+   Lesson Title  count
+0       00BTG2  25230
+1       VOAKP7  22617
+2       LA347P  15016
+3         None  14152
+4       A4PI9S  11607
+This is the format of your plot grid:
+[ (1,1) x1,y1 ]
+[ (2,1) x2,y2 ]
+
+For User IHL8FBBKTB
+Average time spent by days                         mean
+               Minutes Spent
+Day Month Year              
+1   12    2016    162.428852
+2   12    2016     94.519180
+3   1     2017    115.591738
+4   1     2017     47.345027
+5   1     2017     16.268079
+    12    2016     74.743256
+6   12    2016     42.779140
+7   12    2016     19.382180
+8   12    2016     18.794894
+9   12    2016     14.660665
+12  12    2016     28.994521
+13  12    2016     26.080482
+14  12    2016     10.015833
+16  12    2016     39.322544 
+
+Average time spent by Week                    mean
+          Minutes Spent
+Week Year              
+1    2017     68.395541
+48   2016    114.098710
+49   2016     46.202740
+50   2016     30.432276 
+
+Average time spent by Month                     mean
+           Minutes Spent
+Month Year              
+1     2017     68.395541
+12    2016     58.901352
+
+Process finished with exit code 0
